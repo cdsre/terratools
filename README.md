@@ -1,4 +1,4 @@
-# terratools
+# Terratools
 
 ## Overview
 This docker image provides terratools such as [terraform](https://www.terraform.io/) and 
