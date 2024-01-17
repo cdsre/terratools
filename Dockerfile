@@ -1,4 +1,4 @@
-FROM golang:1.20-buster
+FROM golang:1.22rc1-bookworm
 
 # set time to follow GB DST
 RUN ln -sf /usr/share/zoneinfo/GB /etc/localtime
